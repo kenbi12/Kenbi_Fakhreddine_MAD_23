@@ -1,4 +1,4 @@
-package at.ac.fhcampuswien.movieapp.ui.theme
+package at.ac.fhcampuswien.jetpackcompose.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

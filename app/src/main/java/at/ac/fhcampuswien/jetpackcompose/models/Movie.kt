@@ -1,5 +1,4 @@
-package at.ac.fhcampuswien.movieapp.models
-
+package at.ac.fhcampuswien.jetpackcompose.models
 
 data class Movie(
     val id: String,
